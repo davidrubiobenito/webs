@@ -2552,3 +2552,54 @@ div[data-mod-num="3"] .moduletable_menu:nth-child(3n+1) {
     width: 100%;
   }
 }
+
+/**************************************************************************************************/
+
+/*
+	Social icons
+*/
+a[class^="icon-"]:before {
+  color: #cccccc;
+  font-family: FontAwesome;
+  font-size: 2.2rem;
+  line-height: 1.1;
+}
+.icon-gplus_icon:before {
+  content: "\f0d4";
+}
+.icon-fb_icon:before {
+  content: "\f082";
+}
+.icon-twitter_icon:before {
+  content: "\f081";
+}
+.icon-pinterest_icon:before {
+  content: "\f0d3";
+}
+.icon-youtube_icon:before {
+  content: "\f166";
+}
+.icon-rss_icon:before {
+  content: "\f143";
+}
+.icon-instagram_icon:before {
+  content: "\f16d";
+}
+.icon-behance_icon:before {
+  content: "\f1b4";
+}
+.icon-dribbble_icon:before {
+  content: "\f17d";
+}
+.icon-flickr_icon:before {
+  content: "\f16e";
+}
+.icon-github_icon:before {
+  content: "\f092";
+}
+.icon-vimeo_icon:before {
+  content: "\f194";
+}
+.icon-linkedin_icon:before {
+  content: "\f08c";
+}
