@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### NetBeans template
+nbproject/*
+nbproject/
+nbproject
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea/*
+.idea/
+.idea
+
+### IOS
+.DS_Store
+
+### Joomla
+configuration.php
